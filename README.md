@@ -37,6 +37,8 @@
 
 ## 📄 Моё резюме 
 [![hh.ru](https://img.shields.io/badge/hh.ru-FF5A1F?style=flat-square&logo=hh&logoColor=white)](https://bryansk.hh.ru/resume/b16c231eff0f6adc280039ed1f647748363734)
+[![SuperJob](https://img.shields.io/badge/SuperJob-00AEEF?style=flat-square)](https://www.superjob.ru/resume/programmist-stazher-1s-56810962.html)
+[![Habr Career](https://img.shields.io/badge/Habr%20Career-65A4BE?style=flat-square&logo=habr&logoColor=white)](https://career.habr.com/svistoplysoff)
 
 
 
