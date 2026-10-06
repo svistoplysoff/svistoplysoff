@@ -33,7 +33,7 @@
 
 ## 🚀 Опыт работы
 
-Программист 1С с января 2026 · общий стаж работы — 21 год
+Программист 1С с января 2026 · общий стаж работы — 24 года
 
 ## 📄 Моё резюме 
 [![hh.ru](https://img.shields.io/badge/hh.ru-FF5A1F?style=flat-square&logo=hh&logoColor=white)](https://bryansk.hh.ru/resume/b16c231eff0f6adc280039ed1f647748363734)
